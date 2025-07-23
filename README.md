@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed El Desoky</h1> <h3 align="center">A passionate Fullstack Developer from Egypt</h3> <p align="center"> <img src="https://profile-counter.glitch.me/mohamedeldesoky/count.svg" /> </p>
+<h1 align="center">Hi 👋, I'm Mohamed El Desoky</h1> <h3 align="center">A passionate Fullstack Developer from Egypt</h3> <p align="center"> </p>
 
 🧠 About Me:
 🔭 I’m currently working on Express + Sequelize Projects
