@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** specializing in the **MERN Stack** . I love crafting efficient, scalable solutions and turning ideas into reality through clean, maintainable code.
+I'm a passionate **Full-Stack Developer** specializing in the **** . I love crafting efficient, scalable solutions and turning ideas into reality through clean, maintainable code.
 
 - 🔭 Currently working on full-stack web applications and mobile apps
 - 🌱 Expanding my expertise in **Advanced Node.js**, **GraphQL**, and **DevOps**
