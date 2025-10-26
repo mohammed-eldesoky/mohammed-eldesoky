@@ -8,19 +8,19 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** specializing in the **** . I love crafting efficient, scalable solutions and turning ideas into reality through clean, maintainable code.
+I'm a passionate **Full-Stack Developer**  . I love crafting efficient, scalable solutions and turning ideas into reality through clean, maintainable code.
 
 - 🔭 Currently working on full-stack web applications and mobile apps
 - 🌱 Expanding my expertise in **Advanced Node.js**, **GraphQL**, and **DevOps**
 - 💡 Passionate about creating seamless user experiences across web and mobile platforms
 - 🎯 Goal: Building impactful digital solutions that solve real-world problems
 - 💬 Ask me about **Angular**, **Node.js**, **Express**, or **MongoDB**
-- 📫 Reach me at: **mohamedeldesoky77@gmail.com**
+- 📫 Reach me at: **mohammedeldesoky77@gmail.com**
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,13 +38,6 @@ I'm a passionate **Full-Stack Developer** specializing in the **** . I love craf
 ### Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-
-### State Management & Libraries
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge&logo=react&logoColor=white)
-![Context API](https://img.shields.io/badge/Context_API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![TanStack Router](https://img.shields.io/badge/TanStack_Router-00D8FF?style=for-the-badge&logo=react&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
