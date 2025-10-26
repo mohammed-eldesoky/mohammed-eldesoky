@@ -2,17 +2,17 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+MERN+Developer;Mobile+App+Developer;React+Native+Specialist;Building+Digital+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer)](https://git.io/typing-svg)
 
 </div>
+
 
 ## 🚀 About Me
 
 I'm a passionate **Full-Stack Developer**  . I love crafting efficient, scalable solutions and turning ideas into reality through clean, maintainable code.
 
-- 🔭 Currently working on full-stack web applications and mobile apps
+
 - 🌱 Expanding my expertise in **Advanced Node.js**, **GraphQL**, and **DevOps**
-- 💡 Passionate about creating seamless user experiences across web and mobile platforms
 - 🎯 Goal: Building impactful digital solutions that solve real-world problems
 - 💬 Ask me about **Angular**, **Node.js**, **Express**, or **MongoDB**
 - 📫 Reach me at: **mohammedeldesoky77@gmail.com**
